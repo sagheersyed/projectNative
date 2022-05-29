@@ -33,8 +33,9 @@ const styles = StyleSheet.create({
     backgroundColor: "black",
     color: 'white',
     width: 140,
-    // height : 100,
     textAlign: 'center',
+    fakljdfklwww,
+
     padding: 20,
     borderRadius: 20,
     fontSize: 20,
